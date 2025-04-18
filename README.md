@@ -18,7 +18,7 @@
 
 ### 1. Clone this Repository
 ```bash
-git clone https://github.com/your-username/shaily-assistant.git
+git clone https://github.com/tanmaymohite/Assistant_Shaily
 cd shaily-assistant
 ```
 
