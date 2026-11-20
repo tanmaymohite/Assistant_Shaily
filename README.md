@@ -68,11 +68,6 @@ python main.py
 
 ---
 
-## 💡 Why the Name "Shaily"?
-The name "Shaily" holds a special significance. It was inspired by a girl I met during a Garba event. She was beautiful, kind, unique, and perfect. Her name was equally unique—there's hardly any name like it in India. I thought it would be the perfect name for my project, symbolizing individuality and excellence.
-
----
-
 ## 📂 Folder Structure
 ```
 shaily-assistant/
